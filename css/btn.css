@@ -1,0 +1,115 @@
+
+/* 画像心臓 */
+.my-blink-01 {
+animation: my-blink 1.2s ease 1s infinite;
+-webkit-animation:blink 1.2s ease 1s infinite
+}
+
+.blink>img {
+-webkit-box-shadow:0 0 30px #111;
+box-shadow:0 0 30px #111;
+border-radius:15px
+}
+
+@-ms-keyframes my-blink {
+0% {
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);
+transform:scale(1)
+}
+50% {
+-webkit-transform:scale(0.95);
+-moz-transform:scale(0.95);
+-o-transform:scale(0.95);
+-ms-transform:scale(0.95);
+transform:scale(0.95)
+}
+to {
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);
+transform:scale(1)
+}
+}
+
+@-webkit-keyframes blink {
+0% {
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);
+transform:scale(1)
+}
+50% {
+-webkit-transform:scale(0.95);
+-moz-transform:scale(0.95);
+-o-transform:scale(0.95);
+-ms-transform:scale(0.95);
+transform:scale(0.95)
+}
+to {
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);
+transform:scale(1)
+}
+}
+
+@-moz-keyframes blink {
+0% {
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);
+transform:scale(1)
+}
+50% {
+-webkit-transform:scale(0.95);
+-moz-transform:scale(0.95);
+-o-transform:scale(0.95);
+-ms-transform:scale(0.95);
+transform:scale(0.95)
+}
+to {
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);
+transform:scale(1)
+}
+}
+
+@keyframes blink {
+0% {
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);
+transform:scale(1)
+}
+50% {
+-webkit-transform:scale(0.95);
+-moz-transform:scale(0.95);
+-o-transform:scale(0.95);
+-ms-transform:scale(0.95);
+transform:scale(0.95)
+}
+to {
+-webkit-transform:scale(1);
+-moz-transform:scale(1);
+-o-transform:scale(1);
+-ms-transform:scale(1);
+transform:scale(1)
+}
+}
+/* 画像心臓 */
+
+
+
+/* 画像ぷるぷる */
+.animate72,.a-option72,.a-btnsub72 {-webkit-animation-timing-function: ease-in;-moz-animation-timing-function: ease-in;-o-animation-timing-function: ease-in;animation-timing-function: ease-in;-moz-animation-iteration-count: infinite;-webkit-animation-iteration-count: infinite;-o-animation-iteration-count: infinite;-ms-animation-iteration-count: infinite;animation-iteration-count: infinite;}a.a-btn {position:relative;display:inline-block;margin:auto;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;-o-box-sizing: border-box;-ms-box-sizing: border-box;box-sizing: border-box;}a.a-btn img {display: block;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;-o-box-sizing: border-box;-ms-box-sizing: border-box;}img.a-main {width:100%;position:relative;z-index: 54;}a.shover:hover * {animation-name:none!important;}@-moz-keyframes animate72 {0%{ -moz-transform:rotate(0deg);}40%{ -moz-transform:rotate(0deg);}50%{ -moz-transform:rotate(2deg);}60%{ -moz-transform:rotate(-1deg);}70%{ -moz-transform:rotate(3deg);}80%{ -moz-transform:rotate(-2deg);}90%{ -moz-transform:rotate(0deg);}100%{ -moz-transform:rotate(0deg);}}@-o-keyframes animate72 {0%{ -o-transform:rotate(0deg);}40%{ -o-transform:rotate(0deg);}50%{ -o-transform:rotate(2deg);}60%{ -o-transform:rotate(-1deg);}70%{ -o-transform:rotate(3deg);}80%{ -o-transform:rotate(-2deg);}90%{ -o-transform:rotate(0deg);}100%{ -o-transform:rotate(0deg);}}@-webkit-keyframes animate72 {0%{ -webkit-transform:rotate(0deg);}40%{ -webkit-transform:rotate(0deg);}50%{ -webkit-transform:rotate(2deg);}60%{ -webkit-transform:rotate(-1deg);}70%{ -webkit-transform:rotate(3deg);}80%{ -webkit-transform:rotate(-2deg);}90%{ -webkit-transform:rotate(0deg);}100%{ -webkit-transform:rotate(0deg);}}@keyframes animate72 {0%{ transform:rotate(0deg);}40%{ transform:rotate(0deg);}50%{ transform:rotate(2deg);}60%{ transform:rotate(-1deg);}70%{ transform:rotate(3deg);}80%{ transform:rotate(-2deg);}90%{ transform:rotate(0deg);}100%{ transform:rotate(0deg);}}.animate72{-webkit-animation-name: animate72;-moz-animation-name: animate72;-o-animation-name: animate72;animation-name: animate72;}.a-btn72{padding-left:0%!important;}.a-option72{top:0%!important;}.a-option72{width:20%!important;}.a-btn72{max-width:100%!important;}.animate72,.a-btnsub72,.a-option72{animation-duration:1s!important;-webkit-animation-duration:1s;-ms-animation-duration:1s;-moz-animation-duration:1s!important;}
+

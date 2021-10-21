@@ -1,0 +1,183 @@
+
+/*___________________ 画像 _____________________*/
+.gazo0{
+	margin: 0px auto 0px;
+	display: block;
+}
+.gazo10{
+	margin: 0px auto 10px;
+	display: block;
+}
+.gazo15{
+	margin: 0px auto 15px;
+	display: block;
+}
+.gazo20{
+	margin: 0px auto 20px;
+	display: block;
+}
+.gazo25{
+	margin: 0px auto 25px;
+	display: block;
+}
+.gazo30{
+	margin: 0px auto 30px;
+	display: block;
+}
+.gazo35{
+	margin: 0px auto 35px;
+	display: block;
+}
+.gazo40{
+	margin: 0px auto 40px;
+	display: block;
+}
+.gazo50{
+	margin: 0px auto 50px;
+	display: block;
+}
+.gazo70{
+	margin: 0px auto 70px;
+	display: block;
+}
+.gazo80{
+	margin: 0px auto 80px;
+	display: block;
+}
+.migi{
+	float: right;
+	margin-left: 23px;
+	margin-bottom: 10px;
+	display: block;
+}
+.hidari{
+	float: left;
+	margin-right: 25px;
+	margin-bottom: 30px;
+	display: block;
+}
+.right{
+	float: right;
+}
+.left{
+	float: left;
+	margin-right: 18px;
+}
+
+
+/*___________________ コンテンツ _____________________*/
+
+#wrap{
+    background-image: url("../images/bg.png");
+	background-repeat: repeat-y;
+	background-position: center 0;
+	width: 100%;
+	margin: 0px auto 0px;
+	overflow: hidden;
+	display: block;
+}
+#top{
+	background-image: url("../images/top.jpg");
+	background-repeat: no-repeat;
+	background-position: center 0;
+	width: 100%;
+    height: 954px;
+	margin: 0px auto 30px;
+	display: block;
+}
+.box{
+	width: 800px;
+	margin: 0px auto 40px;
+	overflow: hidden;
+	display: block;
+}
+.box p{
+	width: 800px;
+	margin: 0px auto 40px;
+	overflow: hidden;
+	display: block;
+}
+.box2{
+	width: 800px;
+	margin: 0px auto 40px;
+	overflow: hidden;
+	display: block;
+}
+#kouza_bg{
+	background-image: url("../images/kouza_bg.jpg");
+	background-repeat: repeat-y;
+	background-position: center 0;
+	width: 820px;
+	padding: 30px 0px 10px;
+	margin: 0px auto 40px;
+	overflow: hidden;
+	display: block;
+}
+
+#prof{
+	background-image: url("../images/prof_bg.jpg");
+	background-repeat: repeat-y;
+	background-position: center 0;
+	width: 820px;
+	margin: 0px auto 80px;
+	overflow: hidden;
+	display: block;
+}
+#prof p{
+	width: 730px;
+	margin: 0px auto 30px;
+	overflow: hidden;
+	display: block;
+}
+.gin{
+	background-image: url("../images/gin.jpg");
+	background-repeat: repeat-y;
+	background-position: center 0;
+	width: 820px;
+	padding: 30px 0px 10px;
+	margin: 0px auto 20px;
+	overflow: hidden;
+	display: block;
+}
+.voice{
+	background-color: #FFF;
+    background-image: url("../images/voice_ttl.jpg");
+	background-repeat: no-repeat;
+	background-position: center 25px;
+	width: 760px;
+    box-shadow: 0px 0px 10px #CCC;
+-webkit-box-shadow: 0px 0px 10px #CCC;
+	padding: 100px 0 5px;
+	margin: 0px auto 20px;
+	overflow: hidden;
+	display: block;
+}
+.voice p{
+	width: 700px;
+	margin: 0px auto 20px;
+	overflow: hidden;
+	display: block;
+}
+
+/*___________________ 申込ボタン _____________________*/
+
+.btn_bg{
+    background-image: url("../images/btn_bg.jpg");
+	background-repeat: repeat-y;
+	background-position: center 0;
+	width: 100%;
+    padding: 30px 0 5px;
+	margin: 0px auto 60px;
+	overflow: hidden;
+	display: block;
+}
+.btn_wrap{
+	background-color: #FFF;
+	width: 840px;
+    box-shadow: 0px 0px 5px #660304;
+-webkit-box-shadow: 0px 0px 5px #660304;
+	padding: 20px 0 5px;
+	margin: 0px auto 25px;
+	overflow: hidden;
+	display: block;
+}
